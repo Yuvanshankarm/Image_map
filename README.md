@@ -214,10 +214,10 @@ Anna Nagar.html
 ```
 # OUTPUT
 ![Screenshot 2025-04-22 091643](https://github.com/user-attachments/assets/96ef22c8-b8fa-408f-b340-be15ce015173)
-![Screenshot 2025-04-22 091427](https://github.com/user-attachments/assets/25a52ac1-8279-4786-87ea-a5ef84c6fa27)
-![Screenshot 2025-04-22 091348](https://github.com/user-attachments/assets/24a7fb62-4378-4290-9e09-b1cfdba4b6c2)
-![Screenshot 2025-04-22 091327](https://github.com/user-attachments/assets/18d68f85-fa8e-46cf-aa51-a91d3ea91055)
-![Screenshot 2025-04-22 091239](https://github.com/user-attachments/assets/dc85584f-c61a-4da9-a88b-fa30c3e3013e)
+[WEB1 (4)](https://github.com/user-attachments/assets/21961b96-926f-447c-9799-98a7449d8bb1)
+![WEB1 (3)](https://github.com/user-attachments/assets/368d67a4-7e47-49c5-a431-380dbac22f9e)
+![WEB1 (2)](https://github.com/user-attachments/assets/5aa71b56-3667-470a-8c0e-961122562dcf)
+![WEB1 (1)](https://github.com/user-attachments/assets/9f885fa8-28e9-475a-89e7-8f15957f95b6)
 
-# RESULT
+# RESULT!
 The program for implementing image maps using HTML is executed successfully.
